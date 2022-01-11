@@ -1,6 +1,6 @@
-test 15
-com.somecompany..*
-import2 com.somecompany.*
-some1 somecompany
+test 16
+com.somecompany.*
+import3 com.somecompany..*
+some2 somecompany
 
 
