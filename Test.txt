@@ -1,9 +1,9 @@
 test 18
 com.somecompany.*
-import3 com.somecompany..*
+ import3 com.somecompany..*
 some2 somecompany
-  somecompany
- com.somecompany
 somecompany
+com.somecompany
+ somecompany
 
 
